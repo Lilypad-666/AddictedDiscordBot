@@ -1,0 +1,38 @@
+{
+  "prefix": "!",
+  "server": {
+    "name": "",
+    "shortName": "",
+    "token": "",
+    "IDs": {
+      "server": "",
+      "channels": {
+        "log": "",
+        "link": "",
+        "apply": "",
+        "general": ""
+      },
+      "groups": {
+        "openApplications": "",
+        "closedApplications": ""
+      },
+      "roles": {
+        "friend": "",
+        "member": "",
+        "staff": "",
+        "bot": "",
+        "founder": ""
+      },
+      "staff": {
+        "admin": [
+          ""
+        ]
+      }
+    }
+  },
+  "mysql": {
+    "host": "localhost",
+    "user": "root",
+    "password": ""
+  }
+}
